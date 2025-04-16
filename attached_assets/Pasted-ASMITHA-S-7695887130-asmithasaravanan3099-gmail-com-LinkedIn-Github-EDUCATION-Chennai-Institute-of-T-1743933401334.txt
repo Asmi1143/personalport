@@ -1,0 +1,56 @@
+ASMITHA S
+7695887130 asmithasaravanan3099@gmail.com LinkedIn Github
+EDUCATION
+Chennai Institute of Technology Bachelor of Technology in Information Technology(CGPA-9.0) 2021 – 2025
+Chennai, Tamilnadu
+Coursework: Data structures and Algorithms, Database, Object Oriented Programming, Networking, Operating System
+TECHNICAL SKILLS
+Languages: Java, SQL
+Development: ReactJS, NodeJs, ExpressJS
+APIs: RESTful APIs, JSON
+Developer Tools: GitHub, VS Code, Docker, Figma, Android Studio
+Testing Tools: Selenium WebDriver, Selenium IDE
+EXPERIENCE
+Zoho Dec 2024 – Dec 2024
+Quality Analyst Trainee
+• Developed expertise in network protocols and device integration, ensuring seamless authentication.
+• Gained hands-on experience with Selenium WebDriver for automated functional and regression testing.
+• Created a comprehensive suite of automated test cases with Selenium IDE, leading to an increase in test coverage
+from 60% to 90%; this initiative now serves as the backbone for quality assurance processes.
+Symposium Website Development Feb 2023 – Mar 2023
+Front End Developer |
+• Collaborated using version control systems(Git), resulting in a 10% reduction in development time.
+• Harnessed Google Firebase for efficient data management, resulted in a 30% enhancement in data retrieval speed.
+• Optimized five pages early in the development process, resulting in a 27% lift in surf traffic.
+• Stress-tested with 5,000 simulated visits to verify resilience and scalability, ensuring seamless user experience.
+Lets Grow More July 2023 – August 2023
+Web Developer Intern | Demo
+• Completed 3 real-time projects, enhancing team efficiency by 25% through effective project planning.
+• Developed TODOLISTforU, boosting productivity by 40% and attracting over 500 active users.
+• Implemented time limits with alarms, increasing task completion rates by 30%.
+• Enhanced user satisfaction ratings by 20% through task addition, editing, and deletion features.
+PROJECTS
+AS - SketchBook | Next.js, Node.js | | Github April 2024
+* Created a responsive SketchBook, increasing user engagement by 50% with an interactive drawing area.
+* Integrated Socket.io for real-time collaboration, enabling instant updates across tabs and improving teamwork
+efficiency by 35%..
+* Enhanced usability with sketch preloading, editing, and sharing features, driving a 25% increase in user retention.
+Blog Website | ReactJs, Express, Node, MongoDB | | Github November 2023
+* Built and optimized RESTful APIs for user authentication, blog operations, and image uploads.
+* Leveraged MongoDB Cloud to optimize data storage, resulting in a 30% reduction in data retrieval latency.
+* Added interactive features like quizzes and games, leading to higher user engagement and prolonged session
+durations.
+Artisan Scribe - A movie database website | ReactJs, Material UI | | Github Decemebr 2022
+* Created a much-simplified movie database, resulting in a 40% improvement in user interface simplicity.
+* Integrated MovieDB API, enhancing the application with real-time access, optimizing data retrieval speed by 30%.
+* Utilized Docker (image size: 724MB) for containerized deployment, ensuring scalability and simplified maintenance.
+ACHIEVEMENTS AND CERTIFICATIONS
+* Finalist in an intra-college hackathon event Smart
+India Hackathon.
+* Lead the National level Technical Symposium
+(2023-2024) as Vice-President.
+* Solved 1400+ problems with rank 6000 on SkillRack.
+* Full Stack Development
+* Cybersecurity Essentials
+* Cisco Certified Network Associate Industrial (CCNA)
+* RPA Citizen Developer Foundation
