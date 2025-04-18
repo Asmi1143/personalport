@@ -43,7 +43,7 @@ export function Hero() {
             
             <div className="flex mt-8 space-x-4">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/asmitha-s-2488b222a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -52,7 +52,7 @@ export function Hero() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/Asmi1143"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
